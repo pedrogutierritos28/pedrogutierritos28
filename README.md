@@ -1,10 +1,8 @@
-# hey, soy Doble T 👋
+# Hey, Bienvenido, Soy Doble T Matutino👋
 
-> Estudiante de Ingeniería en Sistemas • 8vo semestre • Monterrey, MX
+> Estudiante de Ingeniería en Sistemas • 8vo semestre
 
-Todavía aprendiendo, pero aquí estoy construyendo cosas y rompiéndolas para entender cómo funcionan.
-No domino ningún lenguaje al 100% — pero eso no me detiene.
-
+Todavía en proceso de aprendizaje, pero aquí estoy construyendo cosas y rompiéndolas para entender cómo funcionan.
 ---
 
 ## 🛠️ Con lo que trabajo ahorita
