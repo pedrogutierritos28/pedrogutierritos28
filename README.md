@@ -1,16 +1,43 @@
-## Hi there 👋
+# hey, soy Doble T 👋
 
-<!--
-**pedrogutierritos28/pedrogutierritos28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Estudiante de Ingeniería en Sistemas • 8vo semestre • Monterrey, MX
 
-Here are some ideas to get you started:
+Todavía aprendiendo, pero aquí estoy construyendo cosas y rompiéndolas para entender cómo funcionan.
+No domino ningún lenguaje al 100% — pero eso no me detiene.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Con lo que trabajo ahorita
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📂 Proyectos destacados
+
+| Proyecto | Descripción | Tech |
+|----------|-------------|------|
+| [algoritmos_geneticos](https://github.com/mael098/algoritmos_geneticos) | Implementación de algoritmos genéticos con selección por resto | Java |
+| _más próximamente..._ | Trabajando en ello 👀 | — |
+
+---
+
+## 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogutierritos28&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogutierritos28&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📬 Contacto
+
+¿Quieres hablar? Escríbeme a: **[tu correo aquí]**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pedrogutierritos28&color=blueviolet&style=flat-square" alt="visitas al perfil"/>
+</p>
