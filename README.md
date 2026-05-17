@@ -2,10 +2,10 @@
 
 > Estudiante de Ingeniería en Sistemas • 8vo semestre
 
-Todavía en proceso de aprendizaje, pero aquí estoy construyendo cosas y rompiéndolas para entender cómo funcionan.
+No hay mucho que decir, vi esto muy vacio y quize decorarlo con lo que tengo.
 ---
 
-## 🛠️ Con lo que trabajo ahorita
+## 🛠️ Todo lo que he visto hasta el momento (cosas basicas pero aun estamos en proceso de aprendizaje).
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,7 +14,7 @@ Todavía en proceso de aprendizaje, pero aquí estoy construyendo cosas y rompi�
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Proyectos donde mi presencia fue necesaria y proyectos creados por su servidor.
 
 | Proyecto | Descripción | Tech | Rol |
 |----------|-------------|------|-----|
