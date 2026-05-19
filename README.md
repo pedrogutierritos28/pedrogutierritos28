@@ -13,4 +13,3 @@ No hay mucho que decir, vi esto muy vacio y quize decorarlo con lo que tengo.
 |----------|-------------|------|-----|
 | [algoritmos_geneticos](https://github.com/mael098/algoritmos_geneticos) | Implementación de algoritmos genéticos con selección por resto | Java | Colaborador |
 | [image-analyzer](https://github.com/pedrogutierritos28/image-analyzer) | Aplicación de análisis de imágenes con histograma RGB | Java | Autor |
-| _más próximamente..._ | Trabajando en ello 👀 | — | — |
