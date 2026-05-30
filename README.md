@@ -9,7 +9,7 @@ No hay mucho que decir, vi esto muy vacio y quize decorarlo con lo que tengo.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 ## 📂 Proyectos donde mi presencia fue necesaria y proyectos creados por su servidor.
-| Proyecto | Descripción | Tech | Rol |
-|----------|-------------|------|-----|
-| [algoritmos_geneticos](https://github.com/mael098/algoritmos_geneticos) | Implementación de algoritmos genéticos con selección por resto | Java | Colaborador |
-| [image-analyzer](https://github.com/pedrogutierritos28/image-analyzer) | Aplicación de análisis de imágenes con histograma RGB | Java | Autor |
+| Proyecto | Descripción | Tech | Rol | Estado |
+|----------|-------------|------|-----|--------|
+| [algoritmos_geneticos](https://github.com/mael098/algoritmos_geneticos) | Implementación de algoritmos genéticos con selección por resto | Java | Colaborador | Terminado |
+| [image-analyzer](https://github.com/pedrogutierritos28/image-analyzer) | Aplicación de análisis de imágenes con histograma RGB | Java | Autor | Temporalmente Terminado |
